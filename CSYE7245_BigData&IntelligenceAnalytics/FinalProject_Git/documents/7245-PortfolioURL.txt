@@ -1,0 +1,5 @@
+Github:
+https://github.com/ziweifan177/DataScience/tree/master/CSYE7245_BigData%26IntelligenceAnalytics/FinalProject_Git
+
+TechBlog:
+https://wingziweifan.wordpress.com/2018/04/09/how-the-weather-affects-your-hours-spent-in-commuting-in-new-york/
