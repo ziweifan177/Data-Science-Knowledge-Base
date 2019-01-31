@@ -9,3 +9,7 @@
             Advanced Application development(Java)
             Advanced Database Management
             Business Analytics & User Experience*
+## Skills:  
+### Software development, Data science & Machine learning, program management  
+## Certificates:  
+### Business Case Development Certificate, Microsoft SQL Server 2012-70-462, System Security Ceritified Practitioner （Harvard University)  
