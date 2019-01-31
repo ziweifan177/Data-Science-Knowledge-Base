@@ -1,6 +1,20 @@
-### This project:  
-#### 1. Analysis & Predict trip duration of taxi Based on Climate & Geospatial data  
+### This project includes:
+#### 1. Analysis & Predict trip duration of taxi Based on Climate & Geospatial data 
 #### 2. Flare visualization;  
+
+##### A. Taxi Trip analysis:  
+* From the driver’s:  
+What the hot areas for passenger to request taxi? And what the time slot? I will analysis based on geospatial data & time data.  
+The drivers could go to these areas during some exact time slot. It more likely they could have more passengers.  
+It is more likely that there is increasing number of passenger around downtown of Manhattan during 5:00-7:00, is it true?  
+
+* From the driver’s side:  
+I will predict the total ride duration based on historical records, such as longitude, latitude.  
+
+##### B. Weather-Traffic Analysis:  
+* Is there any relationship between weather and duration?  
+* (In rainy days, pavement friction goes down with the higher wetness, and lower visibility distance goes with the rainfall.  
+* Accordingly, it is more likely that these aspects will affect the performance of the drivers. The duration will go with these aspects.)  
 
 ### REFERENCE:  
 #### [1] TPOT: http://epistasislab.github.io/tpot/  
