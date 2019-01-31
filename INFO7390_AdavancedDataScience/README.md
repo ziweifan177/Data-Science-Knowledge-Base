@@ -1,4 +1,6 @@
-### This folder covers:  
+### This folder covers several practical projects & final project in my Data Science courses (Jan.8th 2018-Apr.30th 2018):
+### Professor: Nic Bear Brown
+
 #### (1) Retail data analytics:  
 * Retail data processing & visualization in kinds of plots and explore the correlations betweens some attributes, like temperature VS fuel_price etc.  
 
